@@ -17,7 +17,7 @@ int main()
 	ins.setData(bla);
 	ins.set_priority(bla);
 	schlange.insert(ins);
-
+	
 
 	bla = -6;
 	ins.setData(bla);
